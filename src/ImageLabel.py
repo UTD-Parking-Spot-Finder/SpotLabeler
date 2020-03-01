@@ -3,6 +3,7 @@ from PySide2.QtWidgets import QLabel
 from PySide2.QtGui import QPixmap, QImage
 from PySide2 import QtGui
 
+
 class ImageLabel(QLabel):
 
     def __init__(self, mainWindow):

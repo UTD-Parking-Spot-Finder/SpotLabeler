@@ -1,1 +1,1 @@
-"# SpotLabeler" 
+# Spot Labeler
